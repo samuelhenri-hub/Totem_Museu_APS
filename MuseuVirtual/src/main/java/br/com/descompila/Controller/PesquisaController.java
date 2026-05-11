@@ -1,15 +1,12 @@
 package br.com.descompila.Controller;
 
-// Imports da View
 import br.com.descompila.View.Pesquisa;
 import br.com.descompila.View.Inicio;
 
-// Imports do Model
 import br.com.descompila.Models.Questao;
 import br.com.descompila.Models.SessaoPsquisa;
 import br.com.descompila.Models.MemoriaDados;
 
-// Imports do Java
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Arrays;
