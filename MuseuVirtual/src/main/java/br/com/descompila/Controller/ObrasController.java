@@ -20,15 +20,15 @@ public class ObrasController {
     }
 
     private void carregarObras() {
-        // Obra 0
+        
         listaDeObras.add(new Obra("Operação Gênese: O Arquiteto de Ferro", 
             "A obra retrata um robô de carga instalando os primeiros módulos habitacionais.\nA pintura destaca a força e a precisão das máquinas, mostrando que a presença humana em Marte começa, obrigatoriamente, pelas mãos metálicas de seus precursores robóticos.", 
             "/imagens/obra1G.png"));
-            
-        // Obra 1
+  
         listaDeObras.add(new Obra("Patrulha das Sombras no Cânion", 
             "A obra retrata drones autônomos realizando o mapeamento topográfico de fendas profundas.\nO foco aqui é a agilidade robótica, mostrando como essas sentinelas voadoras são os olhos da humanidade em lugares onde o homem ainda não pode pisar.", 
             "/imagens/obra2G.png")); 
+<<<<<<< HEAD
             
         // Obra 2
         listaDeObras.add(new Obra("Extrator de Segredos Milenares", 
@@ -68,7 +68,7 @@ public class ObrasController {
         // Obra 9
         listaDeObras.add(new Obra("Ecos da Noite Em Marte", 
             "Obra inspirada na exploração espacial e nas missões em Marte.\r\n" + //
-                                "Retrata a curiosidade humana e o avanço da tecnologia diante do desconhecido. Une o clássico e o futurista, mostrando que a busca por conhecimento atravessa o tempo.", 
+                                "Retrata a curiosidade humana e o avanço da tecnologia diante do desconhecido. Une o clássico e o futurista, mostrando que a busca por conhecimento atravessa o tempo.",
             "/imagens/obra10G.png"));
     }
 
