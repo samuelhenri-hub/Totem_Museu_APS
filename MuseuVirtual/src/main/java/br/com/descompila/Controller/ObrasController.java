@@ -27,47 +27,48 @@ public class ObrasController {
             
         // Obra 1
         listaDeObras.add(new Obra("Patrulha das Sombras no Cânion", 
-            "Os drones de Patrulha das Sombras no Cânion têm a função de proteger e monitorar as áreas inexploradas do planeta vermelho.", 
+            "A obra retrata drones autônomos realizando o mapeamento topográfico de fendas profundas.\nO foco aqui é a agilidade robótica, mostrando como essas sentinelas voadoras são os olhos da humanidade em lugares onde o homem ainda não pode pisar.", 
             "/imagens/obra2G.png")); 
             
         // Obra 2
-        listaDeObras.add(new Obra("O Andarilho do Rio de Pedras", 
-            "A pintura O Andarilho do Rio de Pedras mostra um rover moderno explorando leitos secos onde outrora corria água marciana.", 
+        listaDeObras.add(new Obra("Extrator de Segredos Milenares", 
+            "A obra retrata drones autônomos realizando o mapeamento topográfico de fendas profundas.\n O foco aqui é a agilidade robótica, mostrando como essas sentinelas voadoras são os olhos da humanidade em lugares onde o homem ainda não pode pisar.", 
             "/imagens/obra3G.png"));
 
         // Obra 3
-        listaDeObras.add(new Obra("Reunião de Gerações Metálicas", 
-            "De acordo com a obra Reunião de Gerações Metálicas, o encontro entre robôs de diferentes épocas celebra a durabilidade e a evolução da engenharia espacial.", 
+        listaDeObras.add(new Obra("O Guardião do Primeiro Broto", 
+            "A obra retrata um rover de pesquisa botânica cuidando de uma estufa experimental.\n A tela mostra o robô não apenas como uma ferramenta, mas como um protetor da vida, criando um elo visual entre a frieza do metal e a vibração do primeiro verde em Marte.", 
             "/imagens/obra4G.png"));
 
         // Obra 4
-        listaDeObras.add(new Obra("O Guardião do Primeiro Broto", 
-            "Na obra O Guardião do Primeiro Broto, o robô é retratado cuidando meticulosamente de uma estufa experimental, simbolizando a esperança de vida.", 
+        listaDeObras.add(new Obra("Expedição no Vale dos Prismas", 
+            "Esta tela retrata uma unidade de exploração geológica atravessando um campo de cristais gigantes.\n A obra foca na capacidade sensorial dos robôs de identificar beleza e ciência em formações minerais que brilham sob o céu alaranjado.", 
             "/imagens/obra5G.png"));
 
         // Obra 5
-        listaDeObras.add(new Obra("Sinfonia das Engrenagens", 
-            "Uma representação artística da sincronia perfeita entre as máquinas mineradoras operando nas crateras mais profundas de Marte.", 
+        listaDeObras.add(new Obra("Reunião de Gerações Metálicas", 
+            "A obra retrata o encontro de dois robôs exploradores de diferentes épocas no topo de uma cratera.\n A pintura celebra a durabilidade da engenharia robótica, tratando o encontro como uma conversa silenciosa sobre décadas de dados coletados.", 
             "/imagens/obra6G.png"));
 
         // Obra 6
-        listaDeObras.add(new Obra("O Observador Silencioso", 
-            "Esta obra mostra um satélite caído que foi reaproveitado como uma torre de observação estática, vigiando as tempestades de areia.", 
+        listaDeObras.add(new Obra("O Andarilho do Rio de Pedras", 
+            "Esta obra retrata um rover solitário atravessando o leito de um rio seco há bilhões de anos.\n A imagem evoca a resiliência do robô, que continua sua jornada incansável por terrenos áridos em busca de vestígios de um passado aquático.", 
             "/imagens/obra7G.png"));
 
         // Obra 7
-        listaDeObras.add(new Obra("Alvorecer Metálico", 
-            "O reflexo do primeiro sol da manhã marciana batendo nas placas solares da base principal, garantindo energia para mais um dia de exploração.", 
+        listaDeObras.add(new Obra("Desafio à Gravidade: O Escalador", 
+            "A pintura retrata um robô de tração especial subindo uma encosta íngreme e perigosa.\n A obra retrata a superação técnica, mostrando que, para um robô projetado para a exploração, não existem barreiras físicas intransponíveis em Marte.", 
             "/imagens/obra8G.png"));
 
         // Obra 8
-        listaDeObras.add(new Obra("Caminhos de Poeira e Titânio", 
-            "As marcas deixadas pelas esteiras dos rovers na areia vermelha, traçando os primeiros mapas físicos feitos por máquinas.", 
+        listaDeObras.add(new Obra("O Elo Digital: Da Terra ao Vermelho", 
+            "A pintura retrata um robô de tração especial subindo uma encosta íngreme e perigosa.\n A obra retrata a superação técnica, mostrando que, para um robô projetado para a exploração, não existem barreiras físicas intransponíveis em Marte.", 
             "/imagens/obra9G.png"));
 
         // Obra 9
-        listaDeObras.add(new Obra("O Último Comando", 
-            "Um tributo ao primeiro rover enviado a Marte, descansando eternamente após cumprir sua missão e enviar seus últimos dados para a Terra.", 
+        listaDeObras.add(new Obra("Ecos da Noite Em Marte", 
+            "Obra inspirada na exploração espacial e nas missões em Marte.\r\n" + //
+                                "Retrata a curiosidade humana e o avanço da tecnologia diante do desconhecido. Une o clássico e o futurista, mostrando que a busca por conhecimento atravessa o tempo.", 
             "/imagens/obra10G.png"));
     }
 
